@@ -1,9 +1,12 @@
-# Fabric Example Mod
+# RPG Inventory - Visible Trinkets
 
-## Setup
+An add-on for RPG Inventory which provides an API for trinkets to be visible on the player model.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Installation
+Requires
+- [Azure Lib](https://modrinth.com/mod/azurelib)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [RPG Inventory](https://modrinth.com/mod/cloth-config)
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Documentation
+WIP

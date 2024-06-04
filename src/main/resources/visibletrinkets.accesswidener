@@ -1,0 +1,5 @@
+accessWidener v1 named
+
+accessible field net/minecraft/client/render/WorldRenderer bufferBuilders Lnet/minecraft/client/render/BufferBuilderStorage;
+
+accessible method net/minecraft/client/render/WorldRenderer canDrawEntityOutlines ()Z
